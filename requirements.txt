@@ -1,7 +1,7 @@
 streamlit==1.24.1
 pandas==2.0.3
 numpy==1.24.3
-yfinance==
+yfinance==0.2.24
 lxml==
 scipy==
 scikit-learn==
