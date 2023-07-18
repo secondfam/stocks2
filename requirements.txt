@@ -7,4 +7,3 @@ scipy==
 scikit-learn==
 matplotlib==
 tensorflow==
-keras==
